@@ -16,6 +16,10 @@ A covert channel application that:
 
 ```pip install scapy```
 
+### To run main.py:
+
+```python main.py```
+
 ### Caesar Cipher Algorithm
 
 - [Encrypt and Decrypt Messages using Caesar Cipher](https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/)
