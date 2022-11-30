@@ -13,6 +13,7 @@ A covert channel application that:
 ### Install pynput and Scapy using the commands:
 
 ```pip install pynput```
+if unable, try running `dnf install python3-devel` first
 
 ```pip install scapy```
 
