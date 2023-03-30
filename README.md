@@ -1,6 +1,4 @@
-# COMP8505_ASG2
-
-## COMP 8505 - Assignment 2
+## Covert Channel
 
 A covert channel application that:
 - reads from the keyboard input and sends the data out over a covert channel
